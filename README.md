@@ -26,7 +26,7 @@ This is a simplified Login and Registration application built with React Native,
 1. **Clone the repository:**
 
     ```sh
-    git clone 
+    git clone https://github.com/khaoulasdevtutos/login.git  
     cd login
     ```
 
