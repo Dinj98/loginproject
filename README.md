@@ -2,11 +2,6 @@
 
 This is a simplified Login and Registration application built with React Native, Expo, and SQLite. The app includes functionality for user authentication and navigation between screens.
 
-## Author: Khaoula's DEV Tutos
-## Date: 22 July 2024
-
-## Description:
-
 ### Features
 
 - User registration with unique username
@@ -25,28 +20,28 @@ This is a simplified Login and Registration application built with React Native,
 
 1. **Clone the repository:**
 
-    ```sh
-    git clone https://github.com/khaoulasdevtutos/login.git  
-    cd login
-    ```
+   ```sh
+   git clone https://github.com/Dinj98/login.git
+   cd login
+   ```
 
 2. **Install dependencies:**
 
-    Make sure you have `npx` installed. Then, install the project dependencies:
+   Make sure you have `npx` installed. Then, install the project dependencies:
 
-    ```sh
-    npx expo install
-    ```
+   ```sh
+   npx expo install
+   ```
 
 3. **Run the app:**
 
-    Start the Expo development server:
+   Start the Expo development server:
 
-    ```sh
-    npx expo start
-    ```
+   ```sh
+   npx expo start
+   ```
 
-    You can then open the app in an emulator or on a physical device using the Expo Go app.
+   You can then open the app in an emulator or on a physical device using the Expo Go app.
 
 ### Components and Screens
 
